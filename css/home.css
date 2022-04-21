@@ -1,0 +1,7 @@
+.p-frame{
+    width: 100%;
+    max-width: 210px;
+    min-width: 200px;
+    height: 220px;
+    border-radius: 0;
+}
