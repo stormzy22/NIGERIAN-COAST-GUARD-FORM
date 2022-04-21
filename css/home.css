@@ -5,3 +5,7 @@
     height: 220px;
     border-radius: 0;
 }
+img{
+    width: 100%;
+    max-width: 450px;
+}
